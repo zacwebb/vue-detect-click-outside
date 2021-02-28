@@ -1,15 +1,22 @@
 {
     "name": "vue-detect-click-outside",
-    "keywords": ["vue", "vuejs", "detect", "click", "outside", "directive"],
-    "version": "1.0.0",
+    "keywords": [
+        "vue",
+        "vuejs",
+        "detect",
+        "click",
+        "outside",
+        "directive"
+    ],
+    "version": "1.0.1",
     "description": "A simple to detect clicks outside an element and call a method.",
     "main": "index.js",
     "license": "MIT",
     "homepage": "https://github.com/zacwebb/vue-detect-click-outside",
     "bugs": "https://github.com/zacwebb/vue-detect-click-outside/issues",
     "repository": {
-      "url": "https://github.com/zacwebb/vue-detect-click-outside",
-      "type": "git"
+        "url": "https://github.com/zacwebb/vue-detect-click-outside",
+        "type": "git"
     },
     "author": "Zac Webb <me@zacwe.bb>"
 }
